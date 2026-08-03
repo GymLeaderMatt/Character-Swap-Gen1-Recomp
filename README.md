@@ -2,7 +2,7 @@
 - Every mod I make assumes you'll be using the Voxel Rendering mod.
 
 # Change your character!
-In the mod menu you can choose between: \
+In the mod menu you can choose between: 
 - Bruno
 - Channeler
 - Cook
